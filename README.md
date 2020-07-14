@@ -2,7 +2,7 @@
 Python Data Science for Tweens
 
 First Project (3 hours)
-* <a href="#">Volcano List</a> (Worldwide)
+* <a href="notebooks/1%20volcano%20list/Volcano_List.ipynb">Volcano List</a> (Worldwide)
 
 ## About me
 I am a code mentor.
